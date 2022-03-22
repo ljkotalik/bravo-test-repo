@@ -7,7 +7,7 @@ testing
 - Create a repo
 - Clone the repo - there is a repo on Github and you need it locally
     - local/locally - your copmputer
-        - Remote - cloud, Github, on the internet
+    - Remote - cloud, Github, on the internet
 
 -To Make a file - touch 
     -make sure you're inside the repo you just cloned
@@ -23,4 +23,14 @@ testing
     -git commit -m "message" (goal of message is to remind myself of what changes I made)
     -git push origin main (not always main)
 
-    
+    ### Useful Terminal Commands
+    ```
+    ls - lists all the content of the current directory
+    touch - makes a new file
+    cd <name> - change directory into another nested folder/directory
+    cd .. - moves back one level, moves one level closer to the root
+
+    ### Best Git Command Ever
+    ```
+    git status
+    ```
