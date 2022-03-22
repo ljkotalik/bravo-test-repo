@@ -34,3 +34,13 @@ testing
     ```
     git status
     ```
+
+    ### Documentation and Resources
+    - Bravo Syllabus
+    - Bravo classroom Google Drive
+    - Cohortmates
+    - Learn Slcack Channels
+        -2022b
+        -everybody
+
+ 
