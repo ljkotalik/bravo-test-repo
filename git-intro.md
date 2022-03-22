@@ -43,4 +43,17 @@ testing
         -2022b
         -everybody
 
+    ### What to do if you are stuck
+    - Make sure you have all your resources and documentation handy
+    - Ask questions. If you are alone ask the question outloud anyway.
+    - Find another place to ask questions - Slack is a good spot!
+
+
+
+
+
+
+
+    
+
  
